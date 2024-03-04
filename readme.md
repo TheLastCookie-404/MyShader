@@ -1,1 +1,1 @@
-#My own shader using OpenGl and C#
+# My own shader using OpenGl and C#
