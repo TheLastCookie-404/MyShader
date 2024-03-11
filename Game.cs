@@ -5,7 +5,7 @@ using OpenTK.Windowing.GraphicsLibraryFramework;
 
 class Game : GameWindow
 {
-    float r,g,b;
+    private float r,g,b;
     public Game(int width, int height, string title) : base(GameWindowSettings.Default, new NativeWindowSettings() { Size = (width, height), Title = title }) 
     { 
         Console.WriteLine();
